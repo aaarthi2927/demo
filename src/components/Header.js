@@ -1,5 +1,5 @@
 import '../UI/Header.css';
-import { css } from '@emotion/react';
+
 import PeopleIcon from '@mui/icons-material/People';
 import NotificationsIcon from '@mui/icons-material/Notifications';
 import IconButton from '@mui/material/IconButton';
@@ -28,13 +28,7 @@ function Header(){
   </select>
       </div>
       </div>
-      <div css={css({
-        margin: 10,
-        padding: 10,
-        backgroundColor: '#eee',
-      })}>
-        This is an example of <code>`css`</code> using an object.
-      </div>
+      
         </div>
     )
 }
