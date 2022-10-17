@@ -1,0 +1,26 @@
+.Mainpage{
+   margin: 20px;
+
+}
+.Mainpagecontent{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    gap:40px;
+}
+.Mainpagecontent2{
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    gap:40px; 
+   width:100%;
+}
+
+.Mainpagecomponent3{
+    height: 300px;
+    width: 40%;
+    background-color: #ebe9e6;
+    border: 1px solid rgb(87, 87, 87);
+}

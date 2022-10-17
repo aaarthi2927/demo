@@ -1,0 +1,14 @@
+.Component2{
+  border: 8px solid #dddddd;
+}
+.Component2 table {
+    font-family: arial, sans-serif;
+    width: 100%;
+
+      }
+  .Component2 td, th {
+       text-align: left;
+       padding: 18px 10px;
+    border-bottom: 1px solid #dddddd;
+  }
+  

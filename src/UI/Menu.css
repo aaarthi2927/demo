@@ -1,0 +1,24 @@
+
+.menu{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  gap: 20px;
+  margin-top:15px;
+}
+.menuItem{
+    margin-bottom:100px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+     justify-content: center;
+height: 20px;
+ 
+}
+.iconcolor{
+    border: 0px solid orange;
+    background-color: white;
+      }
+.iconcolor:hover{
+       border: 5px solid orange;
+}

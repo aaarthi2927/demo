@@ -1,0 +1,42 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    gap:50px;
+    
+}
+.title span{
+    background-color:#fcba03;
+    font-style: oblique;
+    }
+.title{
+    font-size:xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+  font-weight: 150;
+}
+.headerright{
+ margin-top: 5px;
+ display: flex;
+flex-direction: row;
+flex-wrap: nowrap;
+margin-left:355px;
+
+}
+.Addmember{
+    background-color:#fcba03 ;
+    border: 2px solid #fcba03;
+border-radius: 2px;
+font-size:xx-large;
+height: 45px;
+text-align: center;
+
+}
+select{
+    width: 100%;
+    padding: 5px 20px;
+  border: 1px solid black;
+   text-align:right;
+
+   margin-top: -50px;
+   height: 25px;
+   }

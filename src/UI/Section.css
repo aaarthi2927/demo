@@ -1,0 +1,20 @@
+.Section{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-top: -10px;
+}
+.Section1{
+    width:10%;
+}
+.Section2{
+    width:90%;
+}
+.vercial {
+    width: 1%;
+    border-left: 1px solid black;
+    height: auto;
+    margin: 0px;
+  }
